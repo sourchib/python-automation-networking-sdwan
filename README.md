@@ -14,10 +14,13 @@
 
 # Guide User
 1. Ubah private1 atau private2 sebagai tunnel protokol ipsecnya lintas/telkom.
+![image](https://github.com/sourchib/python-automation-networking-sdwan/assets/60887634/8307cb22-1c30-4aec-98b4-6876395da0da)
+![image](https://github.com/sourchib/python-automation-networking-sdwan/assets/60887634/ae87dcc3-e2ad-4c06-aa81-ff0c7e95beea)
+ipsec menggunakan AH_SHA1_HMAC
 ![WhatsApp Image 2023-06-23 at 16 03 35](https://github.com/sourchib/python-automation-networking-sdwan/assets/60887634/69f8633b-4d1a-48c1-a125-ce3f8828f486)
-2. Edit range dan time data zonenya start time (awal shift) sampai end_time (akhir shift)
+3. Edit range dan time data zonenya start time (awal shift) sampai end_time (akhir shift)
 ![WhatsApp Image 2023-06-23 at 16 03 35](https://github.com/sourchib/python-automation-networking-sdwan/assets/60887634/1ab11902-220c-49f1-b82c-151740b0addb)
-3. Kemudian tambahkan system ip loopback pada router, jika belum tau loopbacknya sh ip int brie.
+4. Kemudian tambahkan system ip loopback pada router, jika belum tau loopbacknya sh ip int brie.
 ![WhatsApp Image 2023-06-23 at 16 04 19](https://github.com/sourchib/python-automation-networking-sdwan/assets/60887634/9fcdcd80-dae1-4dea-8255-1c141cb95e52)
 
 Thanksyou.
