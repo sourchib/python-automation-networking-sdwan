@@ -1,0 +1,11 @@
+,event-time,host-name,local-system-ip,remote-system-ip,local-color,remote-color,src-ip,dst-ip,src-port,dst-port,sla-classes,old-sla-classes
+0,2023-05-09 16:17:31,DRC-BALI-SD-LA,172.21.73.254,172.16.15.253,private2,private2,172.16.208.38,192.168.64.90,12386,12426,"[None, 0, 24, 4]","Bulk-Data, Transactional-Data"
+1,2023-05-09 16:13:58,DC-WOORI-SD-LA,172.21.48.126,172.16.14.126,private2,private2,172.16.203.194,192.168.0.34,12406,12426,"[None, 2, 9, 4]","Bulk-Data, Transactional-Data"
+2,2023-05-09 16:13:55,DC-WOORI-SD-LA,172.21.48.126,172.16.15.253,private2,private2,172.16.203.194,192.168.64.90,12406,12426,"[None, 1, 11, 5]","Bulk-Data, Transactional-Data"
+3,2023-05-09 16:13:47,DC-WOORI-SD-LA,172.21.48.126,172.16.15.126,private2,private2,172.16.203.194,192.168.0.50,12406,12366,"[None, 3, 11, 6]","Bulk-Data, Transactional-Data"
+4,2023-05-09 16:12:58,DC-WOORI-SD-LA,172.21.48.126,172.16.14.126,private2,private2,172.16.203.194,192.168.0.34,12406,12426,"[None, 6, 15, 11]",Bulk-Data
+5,2023-05-09 16:12:47,DC-WOORI-SD-LA,172.21.48.126,172.16.15.126,private2,private2,172.16.203.194,192.168.0.50,12406,12366,"[None, 6, 17, 11]",Bulk-Data
+6,2023-05-09 16:12:31,DRC-BALI-SD-LA,172.21.73.254,172.16.15.253,private2,private2,172.16.208.38,192.168.64.90,12386,12426,"[None, 1, 26, 7]",Bulk-Data
+7,2023-05-09 16:10:55,DC-WOORI-SD-LA,172.21.48.126,172.16.15.253,private2,private2,172.16.203.194,192.168.64.90,12406,12426,"[None, 6, 16, 11]",Bulk-Data
+8,2023-05-09 15:47:31,DRC-BALI-SD-LA,172.21.73.254,172.16.15.253,private2,private2,172.16.208.38,192.168.64.90,12386,12426,"[None, 0, 25, 5]","Bulk-Data, Transactional-Data"
+9,2023-05-09 15:41:31,DRC-BALI-SD-LA,172.21.73.254,172.16.15.253,private2,private2,172.16.208.38,192.168.64.90,12386,12426,"[None, 1, 26, 7]",Bulk-Data

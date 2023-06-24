@@ -1,0 +1,20 @@
+
+# vManage Connectivity Info
+vmanage_host: 10.181.7.18
+vmanage_port: 443
+vmanage_username: msi  
+vmanage_password: P@ssw0rd
+mean_loss_threshold: 5
+mean_latency_thresold: 25
+mean_jitter_thresold: 100
+
+#Time delta in minutes 
+time_delta: 180
+
+sender_email: abcd@gmail.com
+receiver_email: [xyz@gmail.com]
+mail_password: abcdefg
+
+local_system_ip: 10.88.255.136
+remote_system_ip: 10.35.255.136
+local_color: biz-internet
