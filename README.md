@@ -1,7 +1,16 @@
-# Component
+# Component and Guide
 1. Monitoring   : read sla change python automation
 2. Approute     : read graffic sla change python automation
 3. Python version 3.7+ for windows and linux
+4. Ubah user akses ke controller vmanage pada file vmanage_login.yaml
+5. Kemudian jalan file events_SLA_TLK.py events_SLA_LA.py pada folder Monitoring-SLA-change
+6. Secara otomatis program berjalan secara realtime dan akan mencari sla change pada batas parameter jitter, loss, latency.
+7. SLA change indikator display yaitu nama hostnamenya.
+8. Cari System IP pada hostname tersebut.
+9. Kemudian jalankan file approute_bifast.py
+10. Masukkan system ip loopbacknya
+11. Menampilkan graffic terjadinya loss, jitter, latency
+12. Done
 
 # Guide User
 1. Ubah private1 atau private2 sebagai tunnel protokol ipsecnya lintas/telkom.
